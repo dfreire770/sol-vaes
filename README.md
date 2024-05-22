@@ -8,7 +8,8 @@ Generative Models are playing an important role in current developments in Artif
 ### Setup Environment
 
 1. Use an Anaconda environment.
-2. Download the dataset from IRCAM:
+2. This project uses Pytorch, librosa and scipy.
+3. Download the dataset from IRCAM:
    - [OrchideaSOL dataset](https://forum.ircam.fr/projects/detail/orchideasol/)
    - [TinySOL dataset (Preferred)](https://forum.ircam.fr/projects/detail/tinysol/)
 
